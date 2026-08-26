@@ -1,0 +1,6 @@
+{
+  "name": "LEGENDARY CHEMISTRY - World-Class Learning, Simulation & AI Ecosystem",
+  "description": "Comprehensive, production-grade, bilingual Chemistry Learning and Simulation Ecosystem featuring Periodic Table 2.0 with all 118 elements, Interactive 3D Reaction Lab, Titration Curves Master, Electrochemistry & Galvanic Cells, VSEPR 3D Molecule Builder, Quantum Orbitals & Aufbau/Hund box diagrams, Algebraic Stoichiometry Balancer, Gas Laws (PV=nRT) & Chemical Kinetics, Solutions/pH/Buffers/Ksp, Organic IUPAC & Nuclear Decay, Exam & Olympiad Center, Gamified Mastery with XP and Daily Streaks, Unified Global Search, and a 7-Mode AI Chemistry Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
